@@ -4,7 +4,7 @@ Exploratory analysis of coffee retail sales data using SQL and Python, developed
 
 ## Project Overview
 
-The project explores coffee shop transaction data to better understand sales performance, customer purchasing patterns, and differences across store locations and product categories.
+The project explores coffee retail transaction data to better understand sales performance, customer purchasing patterns, and differences across store locations and product categories.
 
 The analysis combines SQL-based exploration with Python/pandas and was later extended with transaction clustering and Tableau visualizations.
 
