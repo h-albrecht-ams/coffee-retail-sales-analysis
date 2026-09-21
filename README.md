@@ -1,6 +1,6 @@
-# Coffee Shop Sales Analysis
+# Coffee Retail Analysis
 
-Exploratory analysis of coffee shop sales data using SQL and Python, developed as a collaborative practice project during the neuefische Data Analytics & AI Bootcamp.
+Exploratory analysis of coffee retail sales data using SQL and Python, developed as a collaborative practice project during the neuefische Data Analytics & AI Bootcamp.
 
 ## Project Overview
 
